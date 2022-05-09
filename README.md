@@ -1,7 +1,7 @@
 # 채용공고 리서치
 ## 데이터 사이언티스트 채용공고 분석
 ---------------
-- [채용공고 모음](https://github.com/minsiks/Recruit-research/blob/master/Data)
+- [채용공고 모음](https://github.com/minsiks/Recruit-research/blob/eb3150dc7d794c7d14787d38219ad776334bfbf5/Back-End%20search.md)
 ### 공통 자격요건 분석
 
 - Python, SQL을 능숙하게 활용 가능한 분
@@ -17,7 +17,7 @@
 
 ---------------
 
-- [채용공고 모음](https://github.com/minsiks/Recruit-research/blob/master/Back-End)
+- [채용공고 모음](https://github.com/minsiks/Recruit-research/blob/eb3150dc7d794c7d14787d38219ad776334bfbf5/Back-End%20search.md)
 
 ### 공통 자격요건 분석
 
